@@ -1,4 +1,4 @@
-# gulp-usemin简单使用附带示例代码
+# [gulp-usemin简单使用](http://www.cnblogs.com/wujie520303/p/4964931.html)附带示例代码
 
 ### 代码结构
 
