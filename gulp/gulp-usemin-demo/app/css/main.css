@@ -1,0 +1,18 @@
+.main {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.btn {
+  display: inline-block;
+  text-align: center;
+  border: none;
+  background: #136fd2;
+  color: white;
+  border-radius: 4px;
+  box-shadow: 0 -2px 0 #1360ba inset;
+  padding: 9px 10px;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}

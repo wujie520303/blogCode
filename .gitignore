@@ -1,0 +1,8 @@
+!.gitignore
+node_modules
+*.log
+**/dist/*
+dist/**.*
+**/build/*
+build/*
+.DS_Store
