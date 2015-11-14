@@ -25,8 +25,6 @@ gulp.task('usemin', ['clean:rev'], function() {
       css: [$.minifyCss(), $.rev()]
     }))
     .pipe(gulp.dest('dist/'))
-    // .pipe($.revReplace())
-    .pipe(gulp.dest('dist'))
 });
 
 gulp.task('clean:rev', function() {
